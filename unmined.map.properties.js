@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -18,
-    minRegionZ: -12,
+    minRegionZ: -20,
     maxRegionX: 17,
     maxRegionZ: 17,
     worldName: "The Hills are Alive",
