@@ -4,7 +4,7 @@ var UnminedMapProperties = {
     maxZoom: 0,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -18,
+    minRegionX: -22,
     minRegionZ: -22,
     maxRegionX: 17,
     maxRegionZ: 17,
